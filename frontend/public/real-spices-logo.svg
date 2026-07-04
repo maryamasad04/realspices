@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular background -->
+  <circle cx="100" cy="100" r="95" fill="#A64253" stroke="#8B3A47" stroke-width="2"/>
+  
+  <!-- RS Text -->
+  <text x="100" y="115" font-family="Georgia, serif" font-size="80" font-weight="bold" fill="#D4AF37" text-anchor="middle" letter-spacing="2">RS</text>
+  
+  <!-- Lotus flower decoration (top right) -->
+  <g transform="translate(135, 65)">
+    <!-- Outer petals -->
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(45)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(135)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(225)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(270)"/>
+    <ellipse cx="0" cy="-8" rx="4" ry="8" fill="#D4AF37" transform="rotate(315)"/>
+    <!-- Center -->
+    <circle cx="0" cy="0" r="3" fill="#E5C158"/>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="100" y="175" font-family="Georgia, serif" font-size="18" fill="#D4AF37" text-anchor="middle" letter-spacing="1">REAL SPICES</text>
+</svg>
